@@ -41,8 +41,8 @@ Node.js & npm
 
 Git
 
-📥 Clone the Repository
-git clone https://github.com/YashGoyal06/SKIN-LESIONS.git
+
+
 cd SKIN-LESIONS
 
 ⚙️ Backend Setup
